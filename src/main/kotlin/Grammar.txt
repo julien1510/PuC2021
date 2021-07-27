@@ -1,0 +1,10 @@
+Program :: Expr
+Expr :: Num
+Expr :: Bool
+Expr :: IF COND Expr ELSE Expr
+Expr :: COND
+Expr :: (Expr)
+Expr :: Expr + Expr // LK
+Expr :: Expr * Expr // LK
+Expr :: Expr - Expr // LK
+Expr :: BE Ident = Expr

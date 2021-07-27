@@ -1,0 +1,490 @@
+lue.Number
+Value.Bool	Value.VarValue.BlockValue.Function
+Value.VoidFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÀ€Ruleen.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSHáValue.Number
+Value.Bool	Value.VarValue.BlockValue.Function
+Value.VoidHKValue.Number
+Value.Bool	Value.VarValue.BlockValue.Function
+Value.VoidHJValue.Number
+Value.Bool	Value.VarValue.BlockValue.Function
+Value.VoidHJValue.Number
+Value.Bool	Value.VarValue.BlockValue.Function
+Value.VoidHJValue.Number
+Value.Bool	Value.VarValue.BlockValue.Function
+Value.VoidHJValue.Number
+Value.Bool	Value.VarValue.BlockValue.Function
+Value.VoidHJValue.Number
+Value.Bool	Value.VarValue.BlockValue.Function
+Value.VoidÔÞToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSHâValue.Number
+Value.Bool	Value.VarValue.BlockValue.Function
+Value.VoidÔãToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSè5RuleÔàToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSø
+RuleHÛ,Value.Number
+Value.Bool	Value.VarValue.BlockValue.Function
+Value.VoidHKValue.Number
+Value.Bool	Value.VarValue.BlockValue.Function
+Value.VoidHJValue.Number
+Value.Bool	Value.VarValue.BlockValue.Function
+Value.VoidÔÿToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSHú·Value.Number
+Value.Bool	Value.VarValue.BlockValue.Function
+Value.VoidÔäToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSHäValue.Number
+Value.Bool	Value.VarValue.BlockValue.Function
+Value.VoidÔãToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÞÇRuleÔáToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSHä!Value.Number
+Value.Bool	Value.VarValue.BlockValue.Function
+Value.VoidÔãToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSä!RuleÔàToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSÔØToken.IF
+Token.ELSEToken.WHILE
+Token.GOTOToken.BE	Token.RET	Token.DEFToken.LPARENToken.RPARENToken.LBRACKToken.RBRACKToken.EQUALSToken.DEQUALSToken.GTHANToken.LTHANToken.COMMAToken.NLWHITESPACE	Token.COL
+Token.PLUSToken.MINUS	Token.MULToken.BOOLEAN_LITToken.NUMBER_LITToken.IDENT	Token.EOF
+Token.EXPRToken.BLOCK
+Token.ARGSçúRuleçúRuleHåØaValue.Number
+Value.Bool	Value.VarValue.BlockValue.Function
+Value.Void
